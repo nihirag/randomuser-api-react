@@ -1,0 +1,24 @@
+.Card
+{
+    background-color: white;
+    border-radius: 6px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 10px 0;
+}
+.Card img
+{
+    margin: 30px 0;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.Card p
+{
+    margin: 10px 5px;
+}
+#email{
+    margin-bottom: 20px;
+}
